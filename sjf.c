@@ -157,7 +157,7 @@ int main()
     {
         printf("For process%d: Completion Time(CT): %d, Tern Around Time(TAT): %d, Response Time(RT): %d, Waiting Time(WT): %d \n", process[i], CT[i], TAT[i], RT[i], WT[i]);
     }
-    printf("commited");
+    printf("changes");
     return 0;
 }
 
